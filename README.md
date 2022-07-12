@@ -1,38 +1,7 @@
 # Draw Group [![US](img/us.png)](./intl/README.md)
 
-Sorteio de Grupos
+Sorteio de Grupos de acordo com a quantidade de participantes inseridos no sistema
 
-## Teoria das matrizes
+## Imagens do sistema
 
-$$
-2x-y=3\\
--x+2y=0\\
-$$
-
-$$
-\left[
-\begin{array}{cc}
-2&-1\\
--1&2\\
-\end{array}
-\right]
-\left[
-\begin{array}{c}
-x\\
-y\\
-\end{array}
-\right]=
-\left[
-\begin{array}{c}
-3\\
-0\\
-\end{array}
-\right]
-$$
-
-- [ ] História
-
-- [ ] HTML
-
-- [ ] CSS
-
+![Imagem 1](./img/)![Imagem 2](./img/)![Imagem 3](./img/)
