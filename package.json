@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/tonmarcondes/drawGroup/issues"
   },
-  "homepage": "https://github.com/tonmarcondes/drawGroup#readme"
+  "homepage": "https://github.com/tonmarcondes/drawGroup#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
 }
